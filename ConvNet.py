@@ -4,7 +4,7 @@ Created on Wed Nov 02 11:36:23 2016
 
 @author: seeker105
 """
-
+Tes
 ''' First CNN training and testing '''
 
 from keras.models import Sequential
